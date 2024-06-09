@@ -1,0 +1,32 @@
+{
+  "id": "7ab4a05b-b781-42fc-8bbc-98e6837f1ead",
+  "name": "FixBeVATValidationBug",
+  "publisher": "Creative Crowd",
+  "version": "1.0.0.0",
+  "brief": "Fixes BE VAT field validation on Customer table",
+  "description": "Fixes BE VAT field validation on Customer table",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
